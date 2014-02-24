@@ -1,0 +1,8 @@
+{
+    "name": "social-share",
+    "description": "Social share buttons",
+    "homepage": "https://github.com/andi-bute/social-share-meteor.git",
+    "author": "Andi Bute <andi.bute@gmail.com>",
+    "version": "0.0.1",
+    "git": "https://github.com/andi-bute/social-share-meteor.git"
+}

@@ -1,0 +1,171 @@
+ul.tssw-list {
+	margin: 0px -10px 0px -10px;
+	*margin-top: 10px;
+	padding: 0px;
+	list-style-type: none;
+	list-style: none;
+}
+
+li.tssw-item {
+	background-image: none !important;
+	position: relative;
+	display: inline-block !important;
+	margin: 10px 0px 0px 10px;
+	padding: 0px;
+	width: 32px;
+	height: 32px;
+	*display: inline;
+	*postion: absolute;
+	*height: 42px;
+}
+
+li.tssw-item a {
+	position: relative;
+	width: 32px;
+	height: 32px;
+	text-decoration: none;
+}
+
+li.tssw-item a:visited {
+	text-decoration: none;
+}
+
+li.tssw-item a:active {
+	text-decoration: none;
+}
+
+li.tssw-item a:hover {
+	text-decoration: none;
+}
+
+li.tssw-item a span.tssw-tooltip {
+	display: none;
+	text-decoration: none;
+	z-index: 100;
+}
+
+li.tssw-item a:hover span.tssw-tooltip {
+	display: block;
+	text-decoration: none;
+}
+
+span.tssw-icon {
+	display: inline-block;
+	margin: 0px;
+	width: 32px;
+	height: 32px;
+	background: url('tilt-social-share-icons.png');
+	background-repeat: no-repeat;
+	*height: 42px;
+}
+
+span.tssw-tooltip {
+	display: none;
+	position: absolute;
+	bottom: -25px;
+	left: 0px;
+	padding: 2px 5px 2px 5px;
+	white-space:nowrap;
+	font-family: 'Arial', 'Helvetica', sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+	color: #464646;
+	background-color: #eeeeee;
+	border: 1px solid #bbbbbb;
+	z-index: 100;
+	*bottom: -15px;
+}
+
+span.tssw-icon:hover {
+	text-decoration: none;
+	cursor: pointer;
+}
+
+span.tssw-delicious {
+	background-position: 0px 0px;
+}
+
+span.tssw-digg {
+	background-position: -32px 0px;
+}
+
+span.tssw-evernote {
+	background-position: -64px 0px;
+}
+
+span.tssw-facebook {
+	background-position: -96px 0px;
+}
+
+span.tssw-friendfeed {
+	background-position: -128px 0px;
+}
+
+span.tssw-gplus {
+	background-position: -160px 0px;
+}
+
+span.tssw-gbookmarks {
+	background-position: -192px 0px;
+}
+
+span.tssw-gbuzz {
+	background-position: -224px 0px;
+}
+
+span.tssw-linkedin {
+	background-position: -256px 0px;
+}
+
+span.tssw-newsvine {
+	background-position: -288px 0px;
+}
+
+span.tssw-pingfm {
+	background-position: -320px 0px;
+}
+
+span.tssw-posterous {
+	background-position: -352px 0px;
+}
+
+span.tssw-reddit {
+	background-position: -384px 0px;
+}
+
+span.tssw-slashdot {
+	background-position: -416px 0px;
+}
+
+span.tssw-stumbleupon {
+	background-position: -448px 0px;
+}
+
+span.tssw-technorati {
+	background-position: -480px 0px;
+}
+
+span.tssw-tumblr {
+	background-position: -512px 0px;
+}
+
+span.tssw-twitter {
+	background-position: -544px 0px;
+}
+
+span.tssw-pinterest {
+	background-position: -576px 0px;
+}
+
+span.tssw-diigo {
+	background-position: -608px 0px;
+}
+
+span.tssw-yahoo {
+	background-position: -640px 0px;
+}
+
+span.tssw-designbump {
+	background-position: -672px 0px;
+}
+
